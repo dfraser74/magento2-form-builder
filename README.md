@@ -1,5 +1,5 @@
 # MageArray Form Builder extension for Magento 2 #
-You can buy this extension from https://www.magearray.com/form-builder-maker-creator-generator-designer-extension-for-magento-2.html
+You can get this extension from https://www.magearray.com/form-builder-maker-creator-generator-designer-extension-for-magento-2.html
 ## Technical Details ##
 * Name: Form Builder
 * Compatible With: Community 2.1, 2.2, Enterprise 2.1, 2.2
