@@ -77,6 +77,6 @@ Web Form Builder allows you to make any type of form right from magento admin, d
 * You can add form result in any CMS page / block by simple Widgets. 
 * Useful in making Custom contact form and Testimonial form and infinite possibilities. 
 * Easy Smart Field and Fieldset Sorting. 
-
+## [Demo and more information](https://www.magearray.com/form-builder-maker-creator-generator-designer-extension-for-magento-2.html)
 ## SUPPORT
 We support all our customers through our website. If you have any questions on Extension or need support with its use please contact us here – we're happy to help you. 
